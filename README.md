@@ -1,5 +1,5 @@
 # LinxBooks-Vietnam
-Sản phẩm kế toán online - mã nguồn mở LinxBooks của LinxHQ Pte Ltd. Để download vào trang Github tiếng Anh của LinxBooks:  https://github.com/LinxHQ/linxbooks
+Sản phẩm kế toán online - mã nguồn mở LinxBooks của Team LinxHQ Viet Nam (LinxHQ Pte Ltd). Để download vào trang Github tiếng Anh của LinxBooks:  https://github.com/LinxHQ/linxbooks
 
 Trang này sẽ gồm các văn bản hướng dẫn bằng tiếng Việt. Để report issue, bạn vui lòng sang trang tiếng Anh.
 
