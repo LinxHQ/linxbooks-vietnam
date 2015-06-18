@@ -3,6 +3,9 @@ Sản phẩm kế toán online - mã nguồn mở LinxBooks của Team LinxHQ Vi
 
 Trang này sẽ gồm các văn bản hướng dẫn bằng tiếng Việt. Để report issue, bạn vui lòng sang trang tiếng Anh.
 
+Liên hệ trực tiếp với team tại Hà Nội: 
+Ông Phạm Ngọc Cường, joseph.pnc@linxhq.com, 04-3792-5067, AP Building, 58 Tran Thai Tong Street, Level 06, Cau Giay, Ha Noi, Viet Nam.
+
 ## Chức Năng
 * Tạo và quản lý nhiều người dùng và gán quyền
 * Quản lý khách hàng và nhà cung cấp
