@@ -4,27 +4,27 @@ Sản phẩm kế toán online - mã nguồn mở LinxBooks của LinxHQ Pte Ltd
 Trang này sẽ gồm các văn bản hướng dẫn bằng tiếng Việt. Để report issue, bạn vui lòng sang trang tiếng Anh.
 
 ## Chức Năng
-* Create and manage multiple users and their permissions
-* Manage customers and vendors
-* Create, delete, edit quotations, invoices and bills
-* Record payments
-* Keep track of company expenses…
-* Generate Reports
-* Export to PDF.
-* Send email reminder
+* Tạo và quản lý nhiều người dùng và gán quyền
+* Quản lý khách hàng và nhà cung cấp
+* Tạo, xóa, chỉnh sửa báo giá, biên lai, hóa đơn
+* Lưu dữ liệu trả tiền
+* Theo dõi chi phí công ty...
+* Tạo các báo cáo
+* xuất báo cáo ra PDF.
+* Gửi email thông báo
 
-## How to install
-* Download the source code and run file /install.php from your browser.
+## Cài đặt thế nào?
+* Tải mã nguồn và chạy tệp /install.php từ trình duyệt của bạn.
 
-## Demo
+## Bản dùng thử
 * Coming soon.
 
-## Technical details
+## Chi tiết thông số kỹ thuật
 
-We use the following:
+Chúng tôi sử dụng:
 * PHP
-* MySQL as database server
-* Apache Web server is recommended
+* MySQL làm hệ thông sữ liệu (database server)
+* Apache Web server khuyên dùng
 * Yii framework 1.1.14
 * Bootstrap
 * JQuery
