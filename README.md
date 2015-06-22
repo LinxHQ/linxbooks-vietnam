@@ -20,7 +20,7 @@ Liên hệ trực tiếp với team tại Hà Nội:
 * Tải mã nguồn và chạy tệp /install.php từ trình duyệt của bạn.
 
 ## Bản dùng thử
-* Coming soon.
+* http://linxbooks.com/demo (user: admin, password: admin123)
 
 ## Chi tiết thông số kỹ thuật
 
